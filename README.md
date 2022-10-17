@@ -1,5 +1,5 @@
 
-<h1 align='center'>We are extremely sorry to inform you that this repo is excluded from Hactoberfest 2022 😢</h1>
+<h1 align='center'>We are extremely sorry to inform you that this repo is excluded from Hactoberfest 200022 😢</h1>
 <p align='center'> <b>But the contribution you made will not go waste, it still counts in for swags by Clueless</b> <p>
 
 ----
